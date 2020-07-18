@@ -1,0 +1,12 @@
+For Agency Italics manually Change Italics in UNITY when needed.
+
+
+
+
+
+--------------------------------------
+In moon description points
+Add this point
+
+(You can visualize 'Phases of moon' in fullscreen viewmode(Icon Image)) 
+---------------------------------------
