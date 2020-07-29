@@ -31,6 +31,8 @@ public class LoadScene : MonoBehaviour
     {
         Application.Quit();
     }
-    
+    public void loadMath() {
+        SceneManager.LoadScene(2);
+    }
 
 }

@@ -5,6 +5,7 @@ using UnityEngine;
 public class HoldSeconds : MonoBehaviour
 {
     public GameObject physics;
+   // public GameObject maths;
     public GameObject loading;
     public GameObject earth;
     // Start is called before the first frame update
